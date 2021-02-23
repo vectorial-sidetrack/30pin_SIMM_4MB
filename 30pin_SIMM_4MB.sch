@@ -802,12 +802,6 @@ Text Label 2700 5300 0    50   ~ 0
 DQ6
 Text Label 2650 6050 0    50   ~ 0
 ~CASP~
-Wire Bus Line
-	5550 1450 5550 5900
-Wire Bus Line
-	2900 1450 2900 6300
-Wire Bus Line
-	4150 1450 4150 6200
 $Comp
 L Graphic:Logo_Open_Hardware_Small #LOGO1
 U 1 1 6045997C
@@ -819,4 +813,10 @@ F 3 "~" H 800 7500 50  0001 C CNN
 	1    800  7500
 	1    0    0    -1  
 $EndComp
+Wire Bus Line
+	5550 1450 5550 5900
+Wire Bus Line
+	2900 1450 2900 6300
+Wire Bus Line
+	4150 1450 4150 6200
 $EndSCHEMATC
